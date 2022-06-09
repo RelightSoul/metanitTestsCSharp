@@ -1,2 +1,1 @@
 # MetanitTestsCSharp
-Закрепляю основы
